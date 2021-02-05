@@ -1,1 +1,2 @@
 # refactor-html-homework
+I worked on this site code to make it easier to work on for the next developer by using semantical tags. I had trouble with this homework assingment but eventually got the hang of it.  
